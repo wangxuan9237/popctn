@@ -1,0 +1,6 @@
+Fri, 25 Nov 2016 18:36:46 server.py[line:18] INFO get connect from ('172.17.0.3', 51872)
+Fri, 25 Nov 2016 18:36:47 server.py[line:22] INFO msg is ÿôÿý
+Fri, 25 Nov 2016 18:36:47 server.py[line:30] INFO send please go out
+Fri, 25 Nov 2016 18:36:52 server.py[line:18] INFO get connect from ('172.17.0.3', 51874)
+Fri, 25 Nov 2016 18:36:54 server.py[line:22] INFO msg is 1
+Fri, 25 Nov 2016 18:36:54 server.py[line:26] INFO send msg welcome to server
