@@ -1,0 +1,5 @@
+[local]
+name = local
+enable = 1
+baseurl = ftp://192.168.234.131
+gpgcheck = 0

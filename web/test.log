@@ -1,0 +1,7 @@
+Tue, 29 Nov 2016 03:21:06 sr.py[line:27] INFO The idx is -1
+Tue, 29 Nov 2016 03:21:06 connection.py[line:575] INFO Connecting to 172.17.0.3:36731
+Tue, 29 Nov 2016 03:21:06 connection.py[line:282] DEBUG Sending request(xid=None): Connect(protocol_version=0, last_zxid_seen=0, time_out=100, session_id=0, passwd='\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00', read_only=None)
+Tue, 29 Nov 2016 03:21:06 client.py[line:444] INFO Zookeeper connection established, state: CONNECTED
+Tue, 29 Nov 2016 03:21:06 connection.py[line:282] DEBUG Sending request(xid=1): Create(path='/eth: error fetching interface information: Device not found', data='/eth: error fetching interface information: Device not found', acl=[ACL(perms=31, acl_list=['ALL'], id=Id(scheme='world', id='anyone'))], flags=1)
+Tue, 29 Nov 2016 03:21:06 connection.py[line:370] DEBUG Received response(xid=1): u'/eth: error fetching interface information: Device not found'
+Tue, 29 Nov 2016 03:21:06 sr.py[line:67] DEBUG register on  /eth: error fetching interface information: Device not found
